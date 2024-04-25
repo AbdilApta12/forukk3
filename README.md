@@ -26,3 +26,9 @@ php artisan db:seed
 
 php artisan serve
 
+
+
+
+
+![Screenshot (184)](https://github.com/AbdilApta12/forukk3/assets/143693152/2c7c8c11-17a8-4517-8c69-1cfa0f1824e8)
+
